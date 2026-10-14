@@ -1,0 +1,11 @@
+{
+  "format": 1,
+  "exercises": {
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/oksanaustenko/gymtracker-lista/main/esercizi.csv"
+  },
+  "templates": {
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/oksanaustenko/gymtracker-lista/main/schede_modello.csv"
+  }
+}

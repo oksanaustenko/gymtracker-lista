@@ -1,0 +1,100 @@
+id;name_it;name_en;muscle_group;secondary_muscles;equipment;type;unilateral;tracking;load;aliases_it;aliases_en
+squat_bilanciere;Squat con bilanciere;Barbell back squat;quads;glutes|adductors|lower_back;barbell;compound;false;weight_reps;standard;Squat;Back squat|Squat
+front_squat;Front squat;Front squat;quads;glutes|abs;barbell;compound;false;weight_reps;standard;Squat frontale;
+hack_squat;Hack squat;Hack squat;quads;glutes;machine;compound;false;weight_reps;standard;;
+goblet_squat;Goblet squat;Goblet squat;quads;glutes;kettlebell;compound;false;weight_reps;standard;Goblet squat con talloni rialzati;Heels-elevated goblet squat
+squat_smith;Squat al multipower;Smith machine squat;quads;glutes;smith_machine;compound;false;weight_reps;standard;Squat Smith;
+pressa_orizzontale;Pressa orizzontale;Horizontal leg press;quads;glutes;machine;compound;false;weight_reps;standard;Leg press orizzontale|Pressa piedi alti;Seated leg press|Leg press high feet
+pressa_45;Pressa 45°;45° leg press;quads;glutes;machine;compound;false;weight_reps;standard;Leg press 45;Leg press
+pressa_monopodalica;Pressa monopodalica;Single-leg press;quads;glutes;machine;compound;true;weight_reps;standard;Pressa a una gamba;Unilateral leg press
+leg_extension;Leg extension;Leg extension;quads;;machine;isolation;false;weight_reps;standard;;
+affondi_bulgari_manubri;Affondi bulgari con manubri;Dumbbell Bulgarian split squat;quads;glutes;dumbbell;compound;true;weight_reps;standard;Bulgarian split squat|Bulgari;Bulgarian split squat|BSS
+affondi_bulgari_kb;Affondi bulgari con kettlebell;Kettlebell Bulgarian split squat;quads;glutes;kettlebell;compound;true;weight_reps;standard;Bulgari goblet;Goblet Bulgarian split squat
+affondi_camminati;Affondi camminati con manubri;Dumbbell walking lunge;quads;glutes;dumbbell;compound;true;weight_reps;standard;Walking lunges;Walking lunges
+affondi_inversi;Affondi inversi;Reverse lunge;quads;glutes;kettlebell;compound;true;weight_reps;standard;Reverse lunges;
+step_up;Step up su panca;Dumbbell step-up;quads;glutes;dumbbell;compound;true;weight_reps;standard;;Box step-up
+hip_thrust_bilanciere;Hip thrust con bilanciere;Barbell hip thrust;glutes;hamstrings;barbell;compound;false;weight_reps;standard;;
+hip_thrust_macchina;Hip thrust alla macchina;Machine hip thrust;glutes;hamstrings;machine;compound;false;weight_reps;standard;;
+glute_bridge;Glute bridge;Glute bridge;glutes;hamstrings;bodyweight;isolation;false;reps;standard;Ponte glutei;
+kickback_cavo;Kickback glutei al cavo;Cable glute kickback;glutes;;cable;isolation;true;weight_reps;standard;Slanci posteriori al cavo;
+abductor_macchina;Abductor machine;Hip abductor machine;glutes;;machine;isolation;false;weight_reps;standard;Abduzioni|Abduttori;Abductions
+adductor_macchina;Adductor machine;Hip adductor machine;adductors;;machine;isolation;false;weight_reps;standard;Adduzioni;Adductions
+stacco_da_terra;Stacco da terra;Deadlift;hamstrings;glutes|lower_back|back|traps;barbell;compound;false;weight_reps;standard;Deadlift|Stacchi da terra;Conventional deadlift
+stacco_rumeno;Stacco rumeno;Romanian deadlift;hamstrings;glutes|lower_back;barbell;compound;false;weight_reps;standard;RDL|Stacchi rumeni;RDL
+stacco_rumeno_manubri;Stacco rumeno con manubri;Dumbbell Romanian deadlift;hamstrings;glutes|lower_back;dumbbell;compound;false;weight_reps;standard;RDL manubri;DB RDL
+stacco_sumo;Stacco sumo;Sumo deadlift;glutes;hamstrings|adductors|quads|lower_back;barbell;compound;false;weight_reps;standard;Sumo deadlift;
+stacco_sumo_kb;Stacco sumo con kettlebell;Kettlebell sumo deadlift;glutes;hamstrings|adductors;kettlebell;compound;false;weight_reps;standard;;
+good_morning;Good morning con bilanciere;Barbell good morning;hamstrings;glutes|lower_back;barbell;compound;false;weight_reps;standard;;
+good_morning_kb;Good morning con kettlebell;Kettlebell good morning;hamstrings;glutes|lower_back;kettlebell;compound;false;weight_reps;standard;;
+leg_curl_sdraiato;Leg curl sdraiato;Lying leg curl;hamstrings;calves;machine;isolation;false;weight_reps;standard;Leg curl prono|Leg curl;Prone leg curl|Leg curl
+leg_curl_seduto;Leg curl seduto;Seated leg curl;hamstrings;;machine;isolation;false;weight_reps;standard;;
+sliding_leg_curl;Sliding leg curl a terra;Sliding leg curl;hamstrings;glutes;bodyweight;isolation;false;reps;standard;;Slider hamstring curl
+hyperextension;Hyperextension;Back extension;lower_back;glutes|hamstrings;bodyweight;isolation;false;weight_reps;standard;Iperestensioni|Back extension;Hyperextension
+calf_in_piedi;Calf raise in piedi;Standing calf raise;calves;;machine;isolation;false;weight_reps;standard;Polpacci in piedi;
+calf_seduto;Calf raise seduto;Seated calf raise;calves;;machine;isolation;false;weight_reps;standard;Polpacci seduto;
+panca_piana_bilanciere;Panca piana con bilanciere;Barbell bench press;chest;triceps|shoulders;barbell;compound;false;weight_reps;standard;Bench press|Panca piana;Bench press|Flat bench
+panca_piana_manubri;Panca piana con manubri;Dumbbell bench press;chest;triceps|shoulders;dumbbell;compound;false;weight_reps;standard;Distensioni manubri;DB bench
+chest_press;Chest press;Machine chest press;chest;triceps|shoulders;machine;compound;false;weight_reps;standard;Panca alla macchina;Chest press
+panca_inclinata_bilanciere;Panca inclinata con bilanciere;Incline barbell bench press;chest;shoulders|triceps;barbell;compound;false;weight_reps;standard;;Incline bench
+spinte_manubri_inclinata;Spinte con manubri su panca inclinata;Incline dumbbell press;chest;shoulders|triceps;dumbbell;compound;false;weight_reps;standard;Spinte manubri 30°|Spinte manubri 45°|Panca inclinata manubri;Incline DB press 30°|Incline DB press 45°
+panca_declinata;Panca declinata con bilanciere;Decline barbell bench press;chest;triceps;barbell;compound;false;weight_reps;standard;;Decline bench
+croci_manubri;Croci con manubri;Dumbbell fly;chest;shoulders;dumbbell;isolation;false;weight_reps;standard;Fly manubri;Chest fly
+croci_cavi;Croci ai cavi;Cable crossover;chest;shoulders;cable;isolation;false;weight_reps;standard;Cable crossover;Cable fly
+pec_deck;Pectoral machine;Pec deck;chest;;machine;isolation;false;weight_reps;standard;Pec deck|Butterfly;Butterfly machine|Machine fly
+dip_parallele;Dip alle parallele;Parallel bar dip;chest;triceps|shoulders;bodyweight;compound;false;weight_reps;added;Dips;Dips|Chest dip
+push_up;Piegamenti sulle braccia;Push-up;chest;triceps|shoulders|abs;bodyweight;compound;false;reps;standard;Push-up;Press-up
+push_up_declinati;Piegamenti declinati;Decline push-up;chest;shoulders|triceps;bodyweight;compound;false;reps;standard;Push-up piedi rialzati;Feet-elevated push-up
+trazioni;Trazioni alla sbarra;Pull-up;back;biceps;pullup_bar;compound;false;weight_reps;added;;
+trazioni_assistite;Trazioni assistite alla macchina;Assisted pull-up machine;back;biceps;machine;compound;false;weight_reps;assisted;Gravitron;Gravitron
+lat_machine_larga;Lat machine presa larga prona;Wide-grip lat pulldown;back;biceps;cable;compound;false;weight_reps;standard;Lat pulldown;Lat pulldown
+lat_machine_neutra;Lat machine presa neutra stretta;Close neutral-grip lat pulldown;back;biceps;cable;compound;false;weight_reps;standard;Lat machine presa neutra;Neutral-grip pulldown
+lat_machine_triangolo;Lat machine presa triangolo;V-bar lat pulldown;back;biceps;cable;compound;false;weight_reps;standard;;Triangle-grip pulldown
+lat_machine_supina;Lat machine presa inversa supina;Reverse-grip lat pulldown;back;biceps;cable;compound;false;weight_reps;standard;;Underhand pulldown
+pulley_basso;Pulley basso;Seated cable row;back;biceps|traps;cable;compound;false;weight_reps;standard;Row al cavo da seduto|Seated cable row;Low row|Cable row
+rematore_bilanciere;Rematore con bilanciere;Barbell row;back;biceps|lower_back|traps;barbell;compound;false;weight_reps;standard;Rematore in piedi|Barbell row;Bent-over row
+rematore_manubrio;Rematore con manubrio;Single-arm dumbbell row;back;biceps;dumbbell;compound;true;weight_reps;standard;One arm row;One-arm DB row
+rematore_kb;Rematore singolo con kettlebell;Single-arm kettlebell row;back;biceps;kettlebell;compound;true;weight_reps;standard;;One-arm KB row
+t_bar_row;T-bar row;T-bar row;back;biceps|traps;barbell;compound;false;weight_reps;standard;Rematore T-bar;
+rematore_macchina;Rematore alla macchina;Machine row;back;biceps;machine;compound;false;weight_reps;standard;Row machine;Seated row machine
+pullover_cavo;Pullover al cavo;Cable straight-arm pulldown;back;chest;cable;isolation;false;weight_reps;standard;Straight arm pulldown;Cable pullover
+pullover_kb;Pullover a terra con kettlebell;Kettlebell floor pullover;back;chest;kettlebell;isolation;false;weight_reps;standard;;
+scrollate;Scrollate con manubri;Dumbbell shrug;traps;;dumbbell;isolation;false;weight_reps;standard;Shrug;Shrugs
+military_press;Military press con bilanciere;Barbell overhead press;shoulders;triceps;barbell;compound;false;weight_reps;standard;Overhead press|Lento avanti;OHP|Military press
+shoulder_press_manubri;Shoulder press con manubri;Dumbbell shoulder press;shoulders;triceps;dumbbell;compound;false;weight_reps;standard;Lento manubri;DB overhead press
+shoulder_press_macchina;Shoulder press alla macchina;Machine shoulder press;shoulders;triceps;machine;compound;false;weight_reps;standard;;
+arnold_press;Arnold press;Arnold press;shoulders;triceps;dumbbell;compound;false;weight_reps;standard;;
+alzate_laterali_manubri;Alzate laterali con manubri;Dumbbell lateral raise;shoulders;traps;dumbbell;isolation;false;weight_reps;standard;Lateral raise;Side raise
+alzate_laterali_macchina;Alzate laterali alla macchina;Machine lateral raise;shoulders;;machine;isolation;false;weight_reps;standard;;
+alzate_laterali_cavo;Alzate laterali al cavo;Cable lateral raise;shoulders;;cable;isolation;true;weight_reps;standard;;
+alzate_frontali;Alzate frontali con manubri;Dumbbell front raise;shoulders;;dumbbell;isolation;false;weight_reps;standard;;
+alzate_posteriori;Alzate posteriori a 90°;Bent-over rear delt fly;shoulders;back|traps;dumbbell;isolation;false;weight_reps;standard;Rear delt fly;Reverse fly
+reverse_pec_deck;Reverse pec deck;Reverse pec deck;shoulders;traps;machine;isolation;false;weight_reps;standard;Deltoidi posteriori alla macchina;Rear delt machine
+face_pull;Face pull al cavo con corda;Cable face pull;shoulders;traps|back;cable;isolation;false;weight_reps;standard;;Face pull
+curl_bilanciere;Curl con bilanciere;Barbell curl;biceps;forearms;barbell;isolation;false;weight_reps;standard;;
+curl_ez;Curl con bilanciere EZ;EZ-bar curl;biceps;forearms;ez_bar;isolation;false;weight_reps;standard;;
+curl_manubri;Curl con manubri;Dumbbell curl;biceps;forearms;dumbbell;isolation;false;weight_reps;standard;;Bicep curl
+curl_martello;Curl a martello;Hammer curl;biceps;forearms;dumbbell;isolation;false;weight_reps;standard;Hammer curl;
+curl_panca_scott;Curl alla panca Scott;Preacher curl;biceps;;ez_bar;isolation;false;weight_reps;standard;Preacher curl;Scott curl
+curl_cavo;Curl al cavo basso;Cable curl;biceps;forearms;cable;isolation;false;weight_reps;standard;;Low cable curl
+curl_concentrato;Curl concentrato;Concentration curl;biceps;;dumbbell;isolation;true;weight_reps;standard;;
+push_down_corda;Push down con corda;Rope triceps pushdown;triceps;;cable;isolation;false;weight_reps;standard;Pushdown corda;Rope pushdown
+push_down_barra;Push down con barra;Bar triceps pushdown;triceps;;cable;isolation;false;weight_reps;standard;;Straight-bar pushdown
+french_press_manubri;French press con manubri;Dumbbell skull crusher;triceps;;dumbbell;isolation;false;weight_reps;standard;French press a terra;Lying DB triceps extension|French press
+french_press_ez;French press con bilanciere EZ;EZ-bar skull crusher;triceps;;ez_bar;isolation;false;weight_reps;standard;Skull crusher;Skull crusher|French press
+estensioni_cavo_nuca;Estensioni tricipiti dietro nuca al cavo;Overhead cable triceps extension;triceps;;cable;isolation;false;weight_reps;standard;Overhead cable extension;
+estensioni_manubrio_nuca;Estensioni tricipiti dietro nuca con manubrio;Overhead dumbbell triceps extension;triceps;;dumbbell;isolation;false;weight_reps;standard;;
+panca_presa_stretta;Panca piana presa stretta;Close-grip bench press;triceps;chest|shoulders;barbell;compound;false;weight_reps;standard;Close grip bench;CGBP
+dip_panca;Dip tra due panche;Bench dip;triceps;chest;bodyweight;compound;false;reps;standard;Bench dips;
+plank;Plank;Plank;abs;shoulders;bodyweight;isolation;false;time;standard;;
+crunch;Crunch;Crunch;abs;;bodyweight;isolation;false;reps;standard;;
+crunch_cavo;Crunch al cavo;Cable crunch;abs;;cable;isolation;false;weight_reps;standard;Crunch inginocchiato al cavo;Kneeling cable crunch
+leg_raise;Leg raise alla sbarra;Hanging leg raise;abs;;pullup_bar;isolation;false;reps;standard;Sollevamento gambe appeso;
+ab_wheel;Ab wheel;Ab wheel rollout;abs;shoulders|lower_back;other;isolation;false;reps;standard;Ruota addominali;
+russian_twist;Russian twist;Russian twist;abs;;dumbbell;isolation;false;weight_reps;standard;;
+wrist_curl;Curl dei polsi con bilanciere;Barbell wrist curl;forearms;;barbell;isolation;false;weight_reps;standard;Flessioni del polso;
+reverse_curl;Curl inverso con bilanciere EZ;EZ-bar reverse curl;forearms;biceps;ez_bar;isolation;false;weight_reps;standard;Curl presa prona;Overhand curl
+dead_hang;Sospensione alla sbarra;Dead hang;forearms;back|shoulders;pullup_bar;isolation;false;time;standard;Dead hang;Bar hang
+side_plank;Plank laterale;Side plank;abs;glutes;bodyweight;isolation;true;time;standard;Side plank;
+hollow_hold;Hollow hold;Hollow body hold;abs;;bodyweight;isolation;false;time;standard;Tenuta a barchetta;Hollow hold
+wall_sit;Sedia al muro;Wall sit;quads;glutes;bodyweight;isolation;false;time;standard;Wall sit;
+dip_assistiti;Dip assistiti alla macchina;Assisted dip machine;triceps;chest|shoulders;machine;compound;false;weight_reps;assisted;;Assisted dips
