@@ -1,0 +1,256 @@
+id;name_it;name_en;category;kcal;protein;carbs;sugars;fat;saturated_fat;fiber;salt;base_unit;serving_name_it;serving_name_en;serving_size;aliases_it;aliases_en;source
+pasta_semola_cruda;Pasta di semola cruda;Durum wheat pasta, dry;cereali_derivati;358;13.0;71.5;2.7;1.5;0.3;3.2;0.01;g;1 porzione;1 portion;80;pasta secca, spaghetti, penne, maccheroni, fusilli, rigatoni;dry pasta, spaghetti, penne, macaroni;USDA FDC 169736
+pasta_semola_cotta;Pasta di semola cotta;Durum wheat pasta, cooked;cereali_derivati;151;5.8;29.1;0.6;0.9;0.2;1.8;0.00;g;1 porzione (80 g da cruda);1 portion (80 g dry);190;pasta bollita, spaghetti cotti, penne cotte;boiled pasta, cooked spaghetti;USDA FDC 169737
+pasta_integrale_cruda;Pasta integrale cruda;Wholemeal pasta, dry;cereali_derivati;357;13.9;64.2;2.7;2.9;0.4;9.2;0.01;g;1 porzione;1 portion;80;pasta di grano integrale, spaghetti integrali, penne integrali;whole wheat pasta, wholegrain pasta;USDA FDC 169738
+pasta_integrale_cotta;Pasta integrale cotta;Wholemeal pasta, cooked;cereali_derivati;152;6.0;26.2;0.8;1.7;0.2;3.9;0.01;g;1 porzione (80 g da cruda);1 portion (80 g dry);190;spaghetti integrali cotti, penne integrali cotte;cooked whole wheat pasta;USDA FDC 168910
+pasta_uovo_cruda;Pasta all'uovo secca;Dried egg pasta;cereali_derivati;375;14.2;68.0;1.9;4.4;1.2;3.3;0.05;g;1 porzione;1 portion;80;tagliatelle, fettuccine, pappardelle, tagliolini;egg noodles, tagliatelle;USDA FDC 169755
+riso_bianco_crudo;Riso bianco crudo;White rice, raw;cereali_derivati;346;6.6;77.9;;0.6;0.2;1.4;0.00;g;1 porzione;1 portion;80;riso, riso arborio, riso carnaroli, riso originario;rice, arborio rice;USDA FDC 168879
+riso_bianco_cotto;Riso bianco cotto;White rice, cooked;cereali_derivati;125;2.4;28.3;;0.2;0.1;0.3;0.00;g;1 porzione (80 g da crudo);1 portion (80 g raw);220;riso bollito, riso lesso;boiled rice, steamed rice;USDA FDC 168880
+riso_integrale_crudo;Riso integrale crudo;Brown rice, raw;cereali_derivati;357;7.5;72.7;0.7;3.2;0.6;3.6;0.01;g;1 porzione;1 portion;80;riso semigreggio;wholegrain rice;USDA FDC 169703
+riso_integrale_cotto;Riso integrale cotto;Brown rice, cooked;cereali_derivati;119;2.7;24.0;0.2;1.0;0.3;1.6;0.01;g;1 porzione (80 g da crudo);1 portion (80 g raw);240;riso integrale bollito;boiled brown rice;USDA FDC 169704
+riso_basmati_crudo;Riso basmati crudo;Basmati rice, raw;cereali_derivati;352;7.1;78.7;0.1;0.7;0.2;1.3;0.01;g;1 porzione;1 portion;80;basmati, riso a chicco lungo, riso thai, riso jasmine;long-grain rice, jasmine rice;USDA FDC 169756
+riso_basmati_cotto;Riso basmati cotto;Basmati rice, cooked;cereali_derivati;125;2.7;27.8;0.1;0.3;0.1;0.4;0.00;g;1 porzione (80 g da crudo);1 portion (80 g raw);225;basmati bollito, riso a chicco lungo cotto;boiled basmati rice;USDA FDC 169757
+riso_parboiled_crudo;Riso parboiled crudo;Parboiled rice, raw;cereali_derivati;359;7.5;79.1;0.3;1.0;0.3;1.8;0.01;g;1 porzione;1 portion;80;riso parboiled, riso che non scuoce;converted rice;USDA FDC 169758
+farro_crudo;Farro crudo;Farro, raw;cereali_derivati;340;14.6;59.5;6.8;2.4;0.4;10.7;0.02;g;1 porzione;1 portion;80;farro perlato, farro decorticato, spelta;spelt, emmer;USDA FDC 169745
+farro_cotto;Farro cotto;Farro, cooked;cereali_derivati;128;5.5;22.5;;0.8;;3.9;0.01;g;1 porzione (80 g da crudo);1 portion (80 g raw);215;farro bollito;boiled spelt, cooked emmer;USDA FDC 169746
+orzo_perlato_crudo;Orzo perlato crudo;Pearl barley, raw;cereali_derivati;330;9.9;62.1;0.8;1.2;0.2;15.6;0.02;g;1 porzione;1 portion;80;orzo;barley;USDA FDC 170284
+orzo_perlato_cotto;Orzo perlato cotto;Pearl barley, cooked;cereali_derivati;118;2.3;24.4;0.3;0.4;0.1;3.8;0.01;g;1 porzione (80 g da crudo);1 portion (80 g raw);230;orzo bollito;boiled barley;USDA FDC 170285
+quinoa_cruda;Quinoa cruda;Quinoa, raw;cereali_derivati;354;14.1;57.2;;6.1;0.7;7.0;0.01;g;1 porzione;1 portion;80;;;USDA FDC 168874
+quinoa_cotta;Quinoa cotta;Quinoa, cooked;cereali_derivati;114;4.4;18.5;0.9;1.9;0.2;2.8;0.02;g;1 porzione (80 g da cruda);1 portion (80 g raw);245;quinoa bollita;boiled quinoa;USDA FDC 168917
+couscous_crudo;Couscous crudo;Couscous, dry;cereali_derivati;357;12.8;72.4;;0.6;0.1;5.0;0.03;g;1 porzione;1 portion;80;cuscus, cous cous;cous cous;USDA FDC 169699
+couscous_cotto;Couscous cotto;Couscous, cooked;cereali_derivati;107;3.8;21.8;0.1;0.2;0.0;1.4;0.01;g;1 porzione (80 g da crudo);1 portion (80 g dry);270;cuscus cotto, cous cous cotto;cooked couscous;USDA FDC 169700
+bulgur;Bulgur;Bulgur;cereali_derivati;340;12.3;63.4;0.4;1.3;0.2;12.5;0.04;g;1 porzione;1 portion;80;burghul, grano spezzato;bulgur wheat, cracked wheat;USDA FDC 170688
+grano_saraceno;Grano saraceno;Buckwheat;cereali_derivati;350;13.2;61.5;;3.4;0.7;10.0;0.00;g;1 porzione;1 portion;80;saraceno;buckwheat groats;USDA FDC 170286
+miglio;Miglio;Millet;cereali_derivati;356;11.0;64.3;;4.2;0.7;8.5;0.01;g;1 porzione;1 portion;80;miglio decorticato;hulled millet;USDA FDC 169702
+amaranto;Amaranto;Amaranth;cereali_derivati;365;13.6;58.5;1.7;7.0;1.5;6.7;0.01;g;1 porzione;1 portion;80;;amaranth grain;USDA FDC 170682
+fiocchi_avena;Fiocchi d'avena;Rolled oats;cereali_derivati;362;13.2;57.6;1.0;6.5;1.1;10.1;0.01;g;1 porzione;1 portion;40;avena, porridge, avena in fiocchi;oats, oatmeal, porridge oats;USDA FDC 173904
+farina_avena;Farina di avena;Oat flour;cereali_derivati;368;13.2;59.4;;6.3;;10.5;0.01;g;1 porzione;1 portion;40;avena macinata;ground oats;USDA FDC 2261421
+farina_frumento_00;Farina di frumento tipo 00;Plain wheat flour (type 00);cereali_derivati;350;10.3;73.6;0.3;1.0;0.2;2.7;0.01;g;;;;farina 00, farina bianca, farina di grano tenero;white flour, all-purpose flour;USDA FDC 169761
+farina_frumento_integrale;Farina integrale di frumento;Wholemeal wheat flour;cereali_derivati;342;13.2;61.3;0.4;2.5;0.4;10.7;0.01;g;;;;farina integrale;whole wheat flour;USDA FDC 168893
+semola_grano_duro;Semola di grano duro;Durum wheat semolina;cereali_derivati;350;13.3;68.3;;1.8;;3.7;0.00;g;;;;semola rimacinata, semola;semolina;USDA FDC 2003589
+farina_mais_polenta;Farina di mais per polenta;Cornmeal for polenta;cereali_derivati;354;7.1;75.5;1.6;1.8;0.2;3.9;0.02;g;1 porzione;1 portion;80;farina gialla, farina di mais, farina per polenta;cornmeal, polenta flour;USDA FDC 168929
+polenta_morbida;Polenta morbida (cotta in acqua);Soft polenta, cooked in water;cereali_derivati;62;1.2;13.2;0.1;0.4;0.1;0.7;0.01;g;1 porzione (80 g di farina);1 portion (80 g cornmeal);450;polenta, polenta cotta;polenta, cooked polenta;USDA FDC 171672
+corn_flakes;Corn flakes;Corn flakes;cereali_derivati;378;5.9;85.3;7.8;0.9;0.2;2.7;1.43;g;1 porzione;1 portion;30;fiocchi di mais, cereali da colazione;cornflakes, breakfast cereal;USDA FDC 174648
+gallette_riso;Gallette di riso;Rice cakes;pane_forno;376;8.2;77.3;0.9;2.8;0.6;4.2;0.07;g;1 galletta;1 rice cake;8;gallette di riso soffiato, gallette integrali;puffed rice cakes;USDA FDC 170250
+gallette_mais;Gallette di mais;Corn cakes;pane_forno;381;9.7;77.2;0.7;3.1;0.5;2.9;0.72;g;1 galletta;1 corn cake;8;gallette di mais soffiato;puffed corn cakes;USDA FDC 167550
+ceci_secchi_crudi;Ceci secchi crudi;Dried chickpeas, raw;legumi;364;20.5;50.8;10.7;6.0;0.6;12.2;0.06;g;1 porzione;1 portion;50;ceci secchi;dry chickpeas, garbanzo beans;USDA FDC 173756
+ceci_cotti;Ceci cotti;Chickpeas, cooked;legumi;153;8.9;19.8;4.8;2.6;0.3;7.6;0.02;g;1 porzione;1 portion;150;ceci lessati, ceci bolliti;boiled chickpeas, cooked garbanzo beans;USDA FDC 173757
+ceci_scatola;Ceci in scatola sgocciolati;Canned chickpeas, drained;legumi;130;7.0;16.1;4.0;2.8;0.2;6.4;0.61;g;1 porzione;1 portion;150;ceci lessati in scatola, ceci precotti;tinned chickpeas, canned garbanzo beans;USDA FDC 173800
+lenticchie_secche_crude;Lenticchie secche crude;Dried lentils, raw;legumi;340;24.6;52.7;2.0;1.1;0.2;10.7;0.01;g;1 porzione;1 portion;50;lenticchie;lentils, dry lentils;USDA FDC 172420
+lenticchie_cotte;Lenticchie cotte;Lentils, cooked;legumi;104;9.0;12.2;1.8;0.4;0.1;7.9;0.01;g;1 porzione;1 portion;150;lenticchie lessate, lenticchie bollite;boiled lentils;USDA FDC 172421
+fagioli_borlotti_secchi_crudi;Fagioli borlotti secchi crudi;Dried borlotti beans, raw;legumi;294;23.0;35.3;;1.2;0.3;24.7;0.01;g;1 porzione;1 portion;50;borlotti;cranberry beans, roman beans;USDA FDC 175189
+fagioli_borlotti_cotti;Fagioli borlotti cotti;Borlotti beans, cooked;legumi;122;9.3;15.9;;0.5;0.1;8.6;0.00;g;1 porzione;1 portion;150;borlotti lessati;cooked cranberry beans;USDA FDC 173736
+fagioli_cannellini_secchi_crudi;Fagioli cannellini secchi crudi;Dried cannellini beans, raw;legumi;307;21.9;42.2;2.3;1.1;0.4;20.2;0.04;g;1 porzione;1 portion;50;cannellini, fagioli bianchi;white beans, white kidney beans;USDA FDC 175190
+fagioli_cannellini_cotti;Fagioli cannellini cotti;Cannellini beans, cooked;legumi;108;8.3;14.1;;0.5;0.1;7.0;0.01;g;1 porzione;1 portion;150;cannellini lessati, fagioli bianchi cotti;cooked white beans;USDA FDC 175191
+fagioli_neri_secchi_crudi;Fagioli neri secchi crudi;Dried black beans, raw;legumi;315;21.2;47.8;2.1;0.9;0.2;15.5;0.02;g;1 porzione;1 portion;50;fagioli neri;black turtle beans;USDA FDC 175186
+fagioli_neri_cotti;Fagioli neri cotti;Black beans, cooked;legumi;117;8.2;16.1;0.3;0.3;0.1;8.3;0.01;g;1 porzione;1 portion;150;fagioli neri lessati;cooked black beans;USDA FDC 175187
+fagioli_rossi_secchi_crudi;Fagioli rossi secchi crudi;Dried red kidney beans, raw;legumi;314;22.5;46.1;2.1;1.1;0.2;15.2;0.03;g;1 porzione;1 portion;50;fagioli rossi, kidney;kidney beans;USDA FDC 173744
+fagioli_rossi_cotti;Fagioli rossi cotti;Red kidney beans, cooked;legumi;116;8.7;15.4;0.3;0.5;0.1;7.4;0.01;g;1 porzione;1 portion;150;fagioli rossi lessati;cooked kidney beans;USDA FDC 175194
+fave_secche_crude;Fave secche crude;Dried broad beans, raw;legumi;301;26.1;33.3;5.7;1.5;0.3;25.0;0.03;g;1 porzione;1 portion;50;fave decorticate;dried fava beans;USDA FDC 175205
+fave_secche_cotte;Fave secche cotte;Dried broad beans, cooked;legumi;102;7.6;14.2;1.8;0.4;0.1;5.4;0.01;g;1 porzione;1 portion;150;fave lessate, purè di fave;cooked fava beans;USDA FDC 173753
+fave_fresche;Fave fresche;Fresh broad beans;legumi;66;5.6;7.5;;0.6;0.1;4.2;0.12;g;1 porzione;1 portion;150;fave, baccelli;fresh fava beans;USDA FDC 170377
+piselli_freschi;Piselli freschi;Fresh peas;legumi;72;5.4;8.8;5.7;0.4;0.1;5.7;0.01;g;1 porzione;1 portion;150;piselli;green peas, garden peas;USDA FDC 170419
+piselli_surgelati_cotti;Piselli surgelati cotti;Frozen peas, cooked;legumi;71;5.2;9.8;4.4;0.3;0.0;4.5;0.18;g;1 porzione;1 portion;150;piselli lessati, pisellini;cooked frozen peas;USDA FDC 170017
+piselli_secchi_spezzati_cotti;Piselli secchi spezzati cotti;Split peas, cooked;legumi;105;8.3;12.8;2.9;0.4;0.1;8.3;0.01;g;1 porzione;1 portion;150;piselli spezzati;cooked split peas;USDA FDC 172429
+soia_gialla_secca;Soia gialla secca;Dried soybeans;legumi;427;36.5;20.9;7.3;19.9;2.9;9.3;0.01;g;1 porzione;1 portion;50;semi di soia, fagioli di soia;soybeans, soya beans;USDA FDC 174270
+edamame;Edamame;Edamame;legumi;120;11.9;3.7;2.2;5.2;0.6;5.2;0.01;g;1 porzione;1 portion;150;fagioli di soia verdi;green soybeans;USDA FDC 168411
+tofu;Tofu;Tofu;legumi;154;17.3;0.5;;8.7;1.3;2.3;0.04;g;1 porzione;1 portion;100;tofu compatto, formaggio di soia;firm tofu, bean curd;USDA FDC 172475
+lupini;Lupini (sgocciolati, senza salamoia);Lupini beans, drained;legumi;122;15.6;7.1;;2.9;0.3;2.8;0.01;g;1 porzione;1 portion;50;lupini;lupin beans;USDA FDC 172424
+pomodoro;Pomodoro;Tomato;verdure;18;0.9;2.7;2.6;0.2;0.0;1.2;0.01;g;1 pomodoro medio;1 medium tomato;120;pomodori, pomodoro da insalata, pomodoro maturo;tomatoes, salad tomato;USDA FDC 170457
+pomodorini;Pomodorini;Cherry tomatoes;verdure;27;0.8;3.4;;0.6;;2.1;0.01;g;1 porzione;1 portion;200;datterini, ciliegini, pachino;grape tomatoes;USDA FDC 321360
+passata_pomodoro;Passata di pomodoro;Tomato passata;verdure;41;1.6;7.1;4.8;0.2;0.0;1.9;0.07;g;1 porzione;1 portion;100;salsa di pomodoro, passata;tomato puree, sieved tomatoes;USDA FDC 170460
+pomodori_pelati;Pomodori pelati in scatola;Canned peeled tomatoes;verdure;19;0.8;2.5;2.5;0.2;0.0;1.9;0.29;g;1 porzione;1 portion;100;pelati, polpa di pomodoro;tinned tomatoes, canned whole tomatoes;USDA FDC 170051
+concentrato_pomodoro;Concentrato di pomodoro;Tomato paste;verdure;89;4.3;14.8;12.2;0.5;0.1;4.1;0.15;g;1 cucchiaio;1 tablespoon;16;doppio concentrato, triplo concentrato;tomato concentrate;USDA FDC 170459
+zucchina_cruda;Zucchina cruda;Courgette, raw;verdure;20;1.2;2.5;2.5;0.3;0.1;1.0;0.02;g;1 zucchina media;1 medium courgette;200;zucchine, zucchino;zucchini, summer squash;USDA FDC 169291
+zucchina_cotta;Zucchina cotta;Courgette, cooked;verdure;17;1.1;1.7;1.7;0.4;0.1;1.0;0.01;g;1 porzione;1 portion;200;zucchine lessate, zucchine al vapore;boiled zucchini;USDA FDC 169292
+melanzana_cruda;Melanzana cruda;Aubergine, raw;verdure;26;1.0;3.5;3.5;0.2;0.0;3.0;0.01;g;1 porzione;1 portion;200;melanzane;eggplant;USDA FDC 169228
+melanzana_cotta;Melanzana cotta;Aubergine, cooked;verdure;35;0.8;6.2;3.2;0.2;0.0;2.5;0.00;g;1 porzione;1 portion;200;melanzane lessate;boiled eggplant;USDA FDC 169229
+peperone_rosso;Peperone rosso;Red pepper;verdure;28;1.0;4.2;4.2;0.3;0.1;2.1;0.01;g;1 peperone medio;1 medium pepper;120;peperoni rossi, peperone dolce;red bell pepper, capsicum;USDA FDC 170108
+peperone_verde;Peperone verde;Green pepper;verdure;20;0.9;2.9;2.4;0.2;0.1;1.7;0.01;g;1 peperone medio;1 medium pepper;120;peperoni verdi, friggitelli;green bell pepper;USDA FDC 170427
+carota_cruda;Carota cruda;Carrot, raw;verdure;39;0.9;6.8;4.7;0.2;0.0;2.8;0.17;g;1 carota media;1 medium carrot;60;carote;carrots;USDA FDC 170393
+carota_cotta;Carota cotta;Carrot, cooked;verdure;32;0.8;5.2;3.5;0.2;0.0;3.0;0.14;g;1 porzione;1 portion;200;carote lessate, carote bollite;boiled carrots;USDA FDC 170394
+cipolla;Cipolla;Onion;verdure;39;1.1;7.6;4.2;0.1;0.0;1.7;0.01;g;1 cipolla media;1 medium onion;110;cipolle, cipolla bianca, cipolla dorata, cipolla rossa;onions;USDA FDC 170000
+aglio;Aglio;Garlic;verdure;158;6.4;31.0;1.0;0.5;0.1;2.1;0.04;g;1 spicchio;1 clove;3;spicchio d'aglio;garlic clove;USDA FDC 169230
+porro;Porro;Leek;verdure;62;1.5;12.3;3.9;0.3;0.0;1.8;0.05;g;1 porro medio;1 medium leek;90;porri;leeks;USDA FDC 169246
+lattuga;Lattuga;Lettuce;verdure;16;1.4;1.6;0.8;0.1;0.0;1.3;0.07;g;1 porzione;1 portion;80;insalata, insalata verde, lattughino, iceberg;green salad, leaf lettuce;USDA FDC 169249
+rucola;Rucola;Rocket;verdure;28;2.6;2.0;2.0;0.7;0.1;1.6;0.07;g;1 porzione;1 portion;80;rughetta;arugula;USDA FDC 169387
+radicchio_rosso;Radicchio rosso;Radicchio;verdure;24;1.4;3.6;0.6;0.2;0.1;0.9;0.06;g;1 porzione;1 portion;80;radicchio, trevisano, radicchio di Chioggia;red chicory;USDA FDC 168564
+indivia_scarola;Indivia e scarola;Endive and escarole;verdure;14;1.2;0.2;0.2;0.2;0.0;3.1;0.06;g;1 porzione;1 portion;80;indivia riccia, scarola, cicoria;curly endive, escarole;USDA FDC 168412
+spinaci_crudi;Spinaci crudi;Spinach, raw;verdure;25;2.9;1.4;0.4;0.4;0.1;2.2;0.20;g;1 porzione;1 portion;80;spinacino, spinaci freschi, spinaci novelli;baby spinach, fresh spinach;USDA FDC 168462
+spinaci_cotti;Spinaci cotti;Spinach, cooked;verdure;24;3.0;1.4;0.4;0.3;0.0;2.4;0.17;g;1 porzione;1 portion;200;spinaci lessati, spinaci bolliti;boiled spinach;USDA FDC 168463
+bietola_cotta;Bietola cotta;Swiss chard, cooked;verdure;21;1.9;2.0;1.1;0.1;0.0;2.1;0.45;g;1 porzione;1 portion;200;bietole, erbette, coste;chard, silverbeet;USDA FDC 170401
+broccoli_crudi;Broccoli crudi;Broccoli, raw;verdure;36;2.8;4.0;1.7;0.4;0.1;2.6;0.08;g;1 porzione;1 portion;200;broccolo, cimette di broccolo;broccoli florets;USDA FDC 170379
+broccoli_cotti;Broccoli cotti;Broccoli, cooked;verdure;35;2.4;3.9;1.4;0.4;0.1;3.3;0.10;g;1 porzione;1 portion;200;broccoli lessati, broccoli al vapore;boiled broccoli;USDA FDC 169967
+cavolfiore_crudo;Cavolfiore crudo;Cauliflower, raw;verdure;26;1.9;3.0;1.9;0.3;0.1;2.0;0.07;g;1 porzione;1 portion;200;cavolfiori;cauliflower florets;USDA FDC 169986
+cavolfiore_cotto;Cavolfiore cotto;Cauliflower, cooked;verdure;24;1.8;2.1;2.1;0.5;0.1;2.3;0.04;g;1 porzione;1 portion;200;cavolfiore lessato;boiled cauliflower;USDA FDC 170397
+cavolo_cappuccio;Cavolo cappuccio;White cabbage;verdure;24;1.3;3.3;3.2;0.1;0.0;2.5;0.04;g;1 porzione;1 portion;200;cappuccio, cavolo;cabbage;USDA FDC 169975
+verza;Verza;Savoy cabbage;verdure;27;2.0;3.0;2.3;0.1;0.0;3.1;0.07;g;1 porzione;1 portion;200;cavolo verza;savoy;USDA FDC 170388
+cavolo_nero;Cavolo nero;Cavolo nero;verdure;37;2.9;1.0;1.0;1.5;0.2;4.1;0.13;g;1 porzione;1 portion;200;cavolo toscano, cavolo riccio, kale;Tuscan kale, kale;USDA FDC 168421
+cavolini_bruxelles_cotti;Cavolini di Bruxelles cotti;Brussels sprouts, cooked;verdure;38;2.5;4.5;1.7;0.5;0.1;2.6;0.05;g;1 porzione;1 portion;200;cavoletti di Bruxelles;sprouts;USDA FDC 169971
+finocchio;Finocchio;Fennel;verdure;30;1.2;4.2;3.9;0.2;0.1;3.1;0.13;g;1 finocchio medio;1 medium fennel bulb;230;finocchi;fennel bulb;USDA FDC 169385
+sedano;Sedano;Celery;verdure;13;0.7;1.4;1.3;0.2;0.0;1.6;0.20;g;1 costa;1 stalk;40;coste di sedano;celery stalk;USDA FDC 169988
+cetriolo;Cetriolo;Cucumber;verdure;17;0.7;3.1;1.7;0.1;0.0;0.5;0.01;g;1 porzione;1 portion;200;cetrioli;cucumbers;USDA FDC 168409
+ravanelli;Ravanelli;Radishes;verdure;14;0.7;1.9;1.9;0.1;0.0;1.6;0.10;g;1 porzione;1 portion;80;ravanello;radish;USDA FDC 169276
+carciofo_cotto;Carciofo cotto;Artichoke, cooked;verdure;51;2.9;6.2;1.0;0.3;0.1;5.7;0.15;g;1 porzione;1 portion;200;carciofi lessati, carciofi;boiled artichoke;USDA FDC 168386
+asparagi_cotti;Asparagi cotti;Asparagus, cooked;verdure;24;2.4;2.1;1.3;0.2;0.0;2.0;0.04;g;1 porzione;1 portion;200;asparagi lessati, asparagi al vapore;boiled asparagus;USDA FDC 168390
+fagiolini_crudi;Fagiolini crudi;Green beans, raw;verdure;32;1.8;4.3;3.3;0.2;0.1;2.7;0.01;g;1 porzione;1 portion;200;cornetti, fagiolini verdi;string beans;USDA FDC 169961
+fagiolini_cotti;Fagiolini cotti;Green beans, cooked;verdure;35;1.9;4.7;3.6;0.3;0.1;3.2;0.00;g;1 porzione;1 portion;200;fagiolini lessati;boiled green beans;USDA FDC 169141
+funghi_champignon_crudi;Funghi champignon crudi;Button mushrooms, raw;verdure;26;3.1;2.3;2.0;0.3;0.1;1.0;0.01;g;1 porzione;1 portion;200;champignon, funghi coltivati, prataioli;white mushrooms;USDA FDC 169251
+funghi_champignon_cotti;Funghi champignon cotti;Button mushrooms, cooked;verdure;30;3.6;2.2;0.0;0.3;0.0;1.8;0.03;g;1 porzione;1 portion;200;champignon trifolati, funghi in padella;sauteed mushrooms;USDA FDC 169253
+patate_crude;Patate crude;Potatoes, raw;verdure;66;1.7;13.3;1.1;0.1;0.0;2.4;0.04;g;1 patata media;1 medium potato;200;patata, patate novelle;potato, white potatoes;USDA FDC 170028
+patate_cotte;Patate lesse;Boiled potatoes;verdure;84;1.7;18.2;0.9;0.1;0.0;1.8;0.01;g;1 porzione;1 portion;200;patate bollite, patate cotte;cooked potatoes;USDA FDC 170440
+patate_forno;Patate al forno;Baked potatoes;verdure;91;2.5;18.9;1.2;0.1;0.0;2.2;0.03;g;1 porzione;1 portion;200;patate arrosto senza grassi, patata al cartoccio;jacket potato;USDA FDC 170093
+patata_dolce_cotta;Patata dolce cotta;Sweet potato, cooked;verdure;86;2.0;17.4;6.5;0.1;0.1;3.3;0.09;g;1 porzione;1 portion;200;patata americana, batata;baked sweet potato, yam;USDA FDC 168483
+zucca_cruda;Zucca cruda;Pumpkin, raw;verdure;48;1.0;9.7;2.2;0.1;0.0;2.0;0.01;g;1 porzione;1 portion;200;zucca butternut, zucca violina;butternut squash, winter squash;USDA FDC 169295
+zucca_cotta;Zucca cotta;Pumpkin, cooked;verdure;40;0.9;7.3;2.0;0.1;0.0;3.2;0.01;g;1 porzione;1 portion;200;zucca al forno;baked butternut squash;USDA FDC 169296
+barbabietola_cotta;Barbabietola rossa cotta;Beetroot, cooked;verdure;44;1.7;8.0;8.0;0.2;0.0;2.0;0.19;g;1 porzione;1 portion;200;rapa rossa, barbabietole precotte;cooked beets;USDA FDC 169146
+mais_scatola;Mais dolce in scatola sgocciolato;Canned sweetcorn, drained;verdure;74;2.3;12.3;4.4;1.2;0.2;2.0;0.51;g;1 porzione;1 portion;70;mais, granella di mais;sweet corn, corn kernels;USDA FDC 169214
+mela;Mela;Apple;frutta;53;0.3;11.4;10.4;0.2;0.0;2.4;0.00;g;1 mela media;1 medium apple;180;mele, mela con buccia;apples;USDA FDC 171688
+pera;Pera;Pear;frutta;57;0.4;12.1;9.8;0.1;0.0;3.1;0.00;g;1 pera media;1 medium pear;180;pere;pears;USDA FDC 169118
+banana;Banana;Banana;frutta;93;1.1;20.2;12.2;0.3;0.1;2.6;0.00;g;1 banana media;1 medium banana;120;banane;bananas;USDA FDC 173944
+arancia;Arancia;Orange;frutta;46;0.7;9.1;9.1;0.2;0.0;2.4;0.00;g;1 arancia media;1 medium orange;150;arance;oranges;USDA FDC 169918
+mandarino;Mandarino;Mandarin;frutta;56;0.8;11.5;10.6;0.3;0.0;1.8;0.01;g;1 mandarino medio;1 medium mandarin;90;mandarini, clementina, clementine;tangerine, clementine;USDA FDC 169105
+limone;Limone;Lemon;frutta;39;1.1;6.5;2.5;0.3;0.0;2.8;0.01;g;1 limone;1 lemon;60;limoni;lemons;USDA FDC 167746
+pompelmo;Pompelmo;Grapefruit;frutta;35;0.7;7.3;7.3;0.1;0.0;1.1;0.00;g;mezzo pompelmo;half a grapefruit;120;pompelmi;grapefruits;USDA FDC 174676
+kiwi;Kiwi;Kiwi fruit;frutta;62;1.1;11.7;9.0;0.5;0.0;3.0;0.01;g;1 kiwi;1 kiwi;70;kiwi verde;kiwifruit;USDA FDC 168153
+fragole;Fragole;Strawberries;frutta;32;0.7;5.7;4.9;0.3;0.0;2.0;0.00;g;1 porzione;1 portion;150;fragola;strawberry;USDA FDC 167762
+ciliegie;Ciliegie;Cherries;frutta;66;1.1;13.9;12.8;0.2;0.0;2.1;0.00;g;1 porzione;1 portion;150;ciliegia, duroni;cherry, sweet cherries;USDA FDC 171719
+uva;Uva;Grapes;frutta;75;0.7;17.2;15.5;0.2;0.1;0.9;0.01;g;1 porzione;1 portion;150;uva bianca, uva nera, acini;white grapes, red grapes;USDA FDC 174683
+pesca;Pesca;Peach;frutta;42;0.9;8.4;8.4;0.2;0.0;1.5;0.00;g;1 pesca media;1 medium peach;150;pesche, pesca gialla, nettarina;peaches, nectarine;USDA FDC 169928
+albicocca;Albicocca;Apricot;frutta;50;1.4;9.2;9.2;0.4;0.0;2.0;0.00;g;1 albicocca;1 apricot;35;albicocche;apricots;USDA FDC 171697
+prugna;Prugna;Plum;frutta;48;0.7;10.0;9.9;0.3;0.0;1.4;0.00;g;1 prugna;1 plum;65;prugne, susina, susine;plums;USDA FDC 169949
+anguria;Anguria;Watermelon;frutta;33;0.6;7.1;6.2;0.1;0.0;0.4;0.00;g;1 porzione;1 portion;150;cocomero;watermelon;USDA FDC 167765
+melone;Melone;Melon;frutta;38;0.8;7.9;7.9;0.2;0.1;0.9;0.04;g;1 porzione;1 portion;150;melone retato, melone cantalupo;cantaloupe, muskmelon;USDA FDC 169092
+ananas;Ananas;Pineapple;frutta;53;0.5;11.7;9.8;0.1;0.0;1.4;0.00;g;1 porzione;1 portion;150;;pineapples;USDA FDC 169124
+mango;Mango;Mango;frutta;65;0.8;13.7;13.7;0.4;0.1;1.6;0.00;g;1 porzione;1 portion;150;manghi;mangoes;USDA FDC 169910
+fichi;Fichi;Figs;frutta;77;0.8;16.3;16.3;0.3;0.1;2.9;0.00;g;1 fico;1 fig;50;fico, fichi freschi;fresh figs;USDA FDC 173021
+cachi;Cachi;Persimmon;frutta;71;0.6;15.0;12.5;0.2;0.0;3.6;0.00;g;1 caco;1 persimmon;170;caco, kaki, loto;sharon fruit, kaki;USDA FDC 169941
+melograno;Melograno;Pomegranate;frutta;84;1.7;14.7;13.7;1.2;0.1;4.0;0.01;g;1 porzione;1 portion;150;chicchi di melograno, melagrana;pomegranate seeds;USDA FDC 169134
+mirtilli;Mirtilli;Blueberries;frutta;59;0.7;12.1;10.0;0.3;0.0;2.4;0.00;g;1 porzione;1 portion;150;mirtillo, mirtilli freschi;blueberry, fresh blueberries;USDA FDC 171711
+lamponi;Lamponi;Raspberries;frutta;45;1.2;5.4;4.4;0.7;0.0;6.5;0.00;g;1 porzione;1 portion;150;lampone;raspberry;USDA FDC 167755
+more;More;Blackberries;frutta;40;1.4;4.9;4.9;0.5;0.0;5.3;0.00;g;1 porzione;1 portion;150;mora, more di rovo;blackberry;USDA FDC 173946
+avocado;Avocado;Avocado;frutta;161;2.0;1.8;0.7;14.7;2.1;6.7;0.02;g;mezzo avocado;half an avocado;100;avocadi;avocados;USDA FDC 171705
+datteri_secchi;Datteri secchi;Dried dates;frutta;297;2.5;67.0;63.4;0.4;0.0;8.0;0.01;g;1 dattero;1 date;8;datteri;dates;USDA FDC 171726
+uvetta;Uvetta;Raisins;frutta;328;3.3;76.7;65.7;0.2;0.1;3.3;0.06;g;1 porzione;1 portion;30;uva passa, uva sultanina;sultanas;USDA FDC 168164
+prugne_secche;Prugne secche;Prunes;frutta;253;2.2;56.8;38.1;0.4;0.1;7.1;0.01;g;1 porzione;1 portion;30;prugne denocciolate;dried plums;USDA FDC 168162
+albicocche_secche;Albicocche secche;Dried apricots;frutta;254;3.4;55.3;53.4;0.5;0.0;7.3;0.03;g;1 porzione;1 portion;30;;dried apricot;USDA FDC 173941
+fichi_secchi;Fichi secchi;Dried figs;frutta;257;3.3;54.1;47.9;0.9;0.1;9.8;0.03;g;1 porzione;1 portion;30;;dried fig;USDA FDC 174665
+petto_pollo_crudo;Petto di pollo crudo;Chicken breast, raw;carne;114;22.5;0.0;0.0;2.6;0.6;0.0;0.11;g;1 porzione;1 portion;100;pollo, fesa di pollo, filetto di pollo, fettine di pollo;chicken, chicken fillet;USDA FDC 171077
+petto_pollo_cotto;Petto di pollo alla griglia;Grilled chicken breast;carne;151;30.5;0.0;0.0;3.2;1.0;0.0;0.13;g;1 porzione (100 g da crudo);1 portion (100 g raw);75;pollo alla piastra, petto di pollo cotto;cooked chicken breast;USDA FDC 171534
+coscia_pollo_cruda;Coscia di pollo cruda (senza pelle);Chicken thigh, skinless, raw;carne;116;19.7;0.0;0.0;4.1;1.1;0.0;0.24;g;1 porzione;1 portion;100;sovracoscia di pollo, fusi di pollo;chicken thigh meat;USDA FDC 173627
+coscia_pollo_cotta;Coscia di pollo arrosto (senza pelle);Roast chicken thigh, skinless;carne;172;24.8;0.0;0.0;8.2;2.3;0.0;0.27;g;1 porzione (100 g da cruda);1 portion (100 g raw);80;pollo arrosto, sovracoscia arrosto;roast chicken thigh meat;USDA FDC 172388
+fesa_tacchino_cruda;Fesa di tacchino cruda;Turkey breast, raw;carne;109;23.7;0.1;0.1;1.5;0.3;0.0;0.28;g;1 porzione;1 portion;100;petto di tacchino, fettine di tacchino;turkey fillet;USDA FDC 171098
+fesa_tacchino_cotta;Fesa di tacchino arrosto;Roast turkey breast;carne;139;30.1;0.0;0.0;2.1;0.6;0.0;0.25;g;1 porzione (100 g da cruda);1 portion (100 g raw);80;tacchino arrosto, petto di tacchino cotto;cooked turkey breast;USDA FDC 171496
+manzo_macinato_magro_crudo;Manzo macinato magro crudo;Lean minced beef, raw;carne;131;21.4;0.0;0.0;5.0;2.2;0.0;0.17;g;1 porzione;1 portion;100;carne trita magra, macinato di manzo, macinato scelto;lean ground beef, beef mince;USDA FDC 171790
+manzo_macinato_magro_cotto;Manzo macinato magro cotto;Lean minced beef, cooked;carne;157;25.8;0.0;0.0;5.9;2.6;0.0;0.18;g;1 porzione (100 g da crudo);1 portion (100 g raw);85;hamburger magro cotto, macinato magro in padella;cooked lean ground beef;USDA FDC 171792
+manzo_macinato_crudo;Manzo macinato crudo;Minced beef, raw;carne;209;18.6;0.0;0.0;15.0;5.7;0.0;0.17;g;1 porzione;1 portion;100;carne trita, macinato di manzo, hamburger;ground beef, beef mince;USDA FDC 171796
+manzo_macinato_cotto;Manzo macinato cotto;Minced beef, cooked;carne;225;24.6;0.0;0.0;14.0;5.3;0.0;0.20;g;1 porzione (100 g da crudo);1 portion (100 g raw);75;hamburger cotto, macinato in padella;cooked ground beef;USDA FDC 174033
+bistecca_manzo_cruda;Bistecca di manzo cruda;Beef steak, raw;carne;143;23.1;0.0;0.0;5.7;2.3;0.0;0.12;g;1 porzione;1 portion;100;controfiletto, entrecôte, fettina di manzo;sirloin steak, strip loin;USDA FDC 174002
+bistecca_manzo_cotta;Bistecca di manzo alla griglia;Grilled beef steak;carne;194;29.5;0.0;0.0;8.4;3.4;0.0;0.15;g;1 porzione (100 g da cruda);1 portion (100 g raw);80;bistecca ai ferri, tagliata;grilled sirloin steak;USDA FDC 168632
+fesa_vitello_cruda;Fesa di vitello cruda;Veal topside, raw;carne;101;21.3;0.0;;1.8;0.5;0.0;0.16;g;1 porzione;1 portion;100;vitello, fettine di vitello, scaloppine;veal cutlet;USDA FDC 175269
+fesa_vitello_cotta;Fesa di vitello arrosto;Roast veal topside;carne;143;28.1;0.0;;3.4;1.2;0.0;0.17;g;1 porzione (100 g da cruda);1 portion (100 g raw);75;arrosto di vitello;roast veal;USDA FDC 173822
+lonza_maiale_cruda;Lonza di maiale cruda;Pork loin, raw;carne;137;21.4;0.0;0.0;5.7;1.9;0.0;0.13;g;1 porzione;1 portion;100;lombata di maiale, braciola di maiale, carré;pork chop;USDA FDC 168230
+lonza_maiale_cotta;Lonza di maiale arrosto;Roast pork loin;carne;201;28.6;0.0;0.0;9.6;3.5;0.0;0.14;g;1 porzione (100 g da cruda);1 portion (100 g raw);75;arista, arrosto di maiale;roast pork;USDA FDC 168233
+agnello_crudo;Agnello crudo (cosciotto);Lamb leg, raw;carne;123;20.6;0.0;;4.5;1.6;0.0;0.15;g;1 porzione;1 portion;100;cosciotto d'agnello, abbacchio;leg of lamb;USDA FDC 174313
+agnello_cotto;Agnello arrosto (cosciotto);Roast leg of lamb;carne;183;28.3;0.0;0.0;7.7;2.8;0.0;0.17;g;1 porzione (100 g da crudo);1 portion (100 g raw);75;agnello al forno, abbacchio al forno;roast lamb;USDA FDC 174314
+coniglio_crudo;Coniglio crudo;Rabbit, raw;carne;130;20.1;0.0;;5.5;1.7;0.0;0.10;g;1 porzione;1 portion;100;;rabbit meat;USDA FDC 172521
+coniglio_cotto;Coniglio arrosto;Roast rabbit;carne;189;29.1;0.0;;8.1;2.4;0.0;0.12;g;1 porzione (100 g da crudo);1 portion (100 g raw);70;coniglio al forno;baked rabbit;USDA FDC 172522
+fegato_vitello;Fegato di vitello crudo;Calf liver, raw;carne;135;19.9;2.9;0.0;4.8;1.6;0.0;0.19;g;1 porzione;1 portion;100;fegato;veal liver;USDA FDC 172534
+salmone_crudo;Salmone crudo;Salmon, raw;pesce;202;20.4;0.0;0.0;13.4;3.0;0.0;0.15;g;1 porzione;1 portion;150;salmone fresco, filetto di salmone;fresh salmon, salmon fillet;USDA FDC 175167
+salmone_cotto;Salmone cotto;Salmon, cooked;pesce;200;22.1;0.0;0.0;12.3;2.4;0.0;0.15;g;1 porzione (150 g da crudo);1 portion (150 g raw);140;salmone al forno, salmone alla griglia;baked salmon, grilled salmon;USDA FDC 175168
+tonno_fresco;Tonno fresco crudo;Fresh tuna, raw;pesce;102;24.4;0.0;0.0;0.5;0.2;0.0;0.11;g;1 porzione;1 portion;150;tonno pinna gialla, trancio di tonno;yellowfin tuna, tuna steak;USDA FDC 175159
+tonno_sottolio;Tonno sott'olio sgocciolato;Tuna in oil, drained;pesce;190;29.1;0.0;0.0;8.2;1.5;0.0;1.04;g;1 scatoletta (sgocciolato);1 can (drained);52;tonno in scatola, tonno all'olio d'oliva;canned tuna in oil;USDA FDC 173708
+tonno_naturale;Tonno al naturale sgocciolato;Tuna in brine, drained;pesce;86;19.4;0.0;0.0;1.0;0.2;0.0;0.62;g;1 scatoletta (sgocciolato);1 can (drained);52;tonno in scatola al naturale;canned tuna in water;USDA FDC 173709
+merluzzo_crudo;Merluzzo crudo;Cod, raw;pesce;77;17.8;0.0;0.0;0.7;0.1;0.0;0.14;g;1 porzione;1 portion;150;filetto di merluzzo, nasello, merluzzo surgelato;cod fillet;USDA FDC 171955
+merluzzo_cotto;Merluzzo cotto;Cod, cooked;pesce;99;22.8;0.0;0.0;0.9;0.2;0.0;0.20;g;1 porzione (150 g da crudo);1 portion (150 g raw);115;merluzzo al forno, merluzzo al vapore;baked cod;USDA FDC 171956
+baccala_secco;Baccalà secco (non ammollato);Dried salted cod (not soaked);pesce;273;62.8;0.0;0.0;2.4;0.5;0.0;17.57;g;;;;baccalà;salt cod, bacalao;USDA FDC 174190
+sogliola;Sogliola cruda;Sole, raw;pesce;67;12.4;0.0;0.0;1.9;0.4;0.0;0.74;g;1 porzione;1 portion;150;platessa, filetto di sogliola, filetto di platessa;plaice, flounder;USDA FDC 174196
+trota_cruda;Trota cruda;Trout, raw;pesce;135;19.9;0.0;0.0;6.2;1.4;0.0;0.13;g;1 porzione;1 portion;150;trota iridea, trota salmonata, filetto di trota;rainbow trout;USDA FDC 173717
+trota_cotta;Trota cotta;Trout, cooked;pesce;162;23.8;0.0;0.0;7.4;1.7;0.0;0.15;g;1 porzione (150 g da cruda);1 portion (150 g raw);125;trota al forno;baked trout;USDA FDC 173718
+pesce_spada;Pesce spada crudo;Swordfish, raw;pesce;138;19.7;0.0;0.0;6.7;1.6;0.0;0.20;g;1 porzione;1 portion;150;trancio di pesce spada;swordfish steak;USDA FDC 173703
+sgombro;Sgombro crudo;Mackerel, raw;pesce;199;18.6;0.0;0.0;13.9;3.3;0.0;0.23;g;1 porzione;1 portion;150;maccarello;Atlantic mackerel;USDA FDC 175119
+sardine_scatola;Sardine sott'olio sgocciolate;Sardines in oil, drained;pesce;202;24.6;0.0;0.0;11.4;1.5;0.0;0.77;g;1 scatoletta (sgocciolata);1 can (drained);85;sardine in scatola;canned sardines;USDA FDC 175139
+alici;Alici crude;Anchovies, raw;pesce;125;20.4;0.0;0.0;4.8;1.3;0.0;0.26;g;1 porzione;1 portion;150;acciughe fresche, alici fresche;fresh anchovies;USDA FDC 174182
+acciughe_sottolio;Acciughe sott'olio sgocciolate;Anchovies in oil, drained;pesce;203;28.9;0.0;0.0;9.7;2.2;0.0;9.17;g;3 filetti;3 fillets;12;filetti di acciuga, alici sott'olio;anchovy fillets;USDA FDC 174183
+gamberi_crudi;Gamberi crudi;Prawns, raw;pesce;85;20.1;0.0;;0.5;0.1;;0.30;g;1 porzione;1 portion;150;gamberetti, mazzancolle, code di gambero;shrimp, prawn tails;USDA FDC 175179
+gamberi_cotti;Gamberi cotti;Prawns, cooked;pesce;99;24.0;0.2;;0.3;0.1;;0.28;g;1 porzione (150 g da crudi);1 portion (150 g raw);125;gamberetti cotti, gamberi lessati;cooked shrimp;USDA FDC 175180
+calamari;Calamari crudi;Squid, raw;pesce;87;15.6;3.1;0.0;1.4;0.4;0.0;0.11;g;1 porzione;1 portion;150;calamaro, totani, anelli di calamaro;calamari;USDA FDC 174223
+polpo_cotto;Polpo cotto;Octopus, cooked;pesce;156;29.8;4.4;0.0;2.1;0.5;0.0;1.15;g;1 porzione;1 portion;150;polipo lesso, polpo bollito;boiled octopus;USDA FDC 174249
+cozze_cotte;Cozze cotte (sgusciate);Mussels, cooked, shelled;pesce;165;23.8;7.4;;4.5;0.8;0.0;0.92;g;1 porzione;1 portion;150;mitili, muscoli;cooked mussels;USDA FDC 174217
+vongole_cotte;Vongole cotte (sgusciate);Clams, cooked, shelled;pesce;140;25.6;5.1;;1.9;0.2;0.0;3.00;g;1 porzione;1 portion;150;lupini di mare, vongole veraci;cooked clams;USDA FDC 171975
+surimi;Surimi;Surimi;pesce;96;15.2;6.8;0.0;0.9;0.2;0.0;0.36;g;1 porzione;1 portion;100;bastoncini di surimi, polpa di granchio;crab sticks, seafood sticks;USDA FDC 173702
+uovo_intero_crudo;Uovo intero crudo;Whole egg, raw;uova;139;12.6;0.7;0.4;9.5;3.1;0.0;0.35;g;1 uovo;1 egg;50;uovo, uova, uovo di gallina;egg, eggs, hen egg;USDA FDC 171287
+uovo_sodo;Uovo sodo;Hard-boiled egg;uova;150;12.6;1.1;1.1;10.6;3.3;0.0;0.31;g;1 uovo;1 egg;50;uovo bollito, uovo rassodato;boiled egg;USDA FDC 173424
+albume;Albume crudo;Egg white, raw;uova;48;10.9;0.7;0.7;0.2;0.0;0.0;0.41;g;1 albume;1 egg white;33;bianco d'uovo, chiara d'uovo, albumi;egg whites;USDA FDC 172183
+tuorlo;Tuorlo crudo;Egg yolk, raw;uova;317;15.9;3.6;0.6;26.5;9.6;0.0;0.12;g;1 tuorlo;1 egg yolk;17;rosso d'uovo, tuorli;egg yolks;USDA FDC 172184
+latte_intero;Latte intero;Whole milk;latte_latticini;64;3.2;5.2;5.2;3.4;1.9;0.0;0.11;ml;1 bicchiere;1 glass;125;latte, latte fresco intero;milk, full-fat milk;USDA FDC 171265
+latte_scremato;Latte scremato;Skimmed milk;latte_latticini;36;3.5;5.3;5.3;0.1;0.1;0.0;0.11;ml;1 bicchiere;1 glass;125;latte magro, latte 0%;skim milk, fat-free milk;USDA FDC 171269
+yogurt_bianco_intero;Yogurt bianco intero;Plain whole-milk yogurt;latte_latticini;62;3.5;4.7;4.7;3.2;2.1;0.0;0.12;g;1 vasetto;1 pot;125;yogurt naturale, yogurt intero;plain yogurt, natural yogurt;USDA FDC 171284
+yogurt_bianco_magro;Yogurt bianco magro;Plain low-fat yogurt;latte_latticini;55;5.7;7.7;7.7;0.2;0.1;0.0;0.19;g;1 vasetto;1 pot;125;yogurt 0%, yogurt magro naturale;fat-free yogurt, nonfat yogurt;USDA FDC 170887
+yogurt_greco_0_grassi;Yogurt greco 0% grassi;Fat-free Greek yogurt;latte_latticini;59;10.2;3.6;3.2;0.4;0.1;0.0;0.09;g;1 vasetto;1 pot;150;yogurt greco magro, yogurt greco bianco;nonfat Greek yogurt, plain Greek yogurt;USDA FDC 170894
+yogurt_greco_intero;Yogurt greco intero;Full-fat Greek yogurt;latte_latticini;97;9.0;4.0;4.0;5.0;2.4;0.0;0.09;g;1 vasetto;1 pot;150;yogurt greco bianco intero;whole-milk Greek yogurt;USDA FDC 171304
+yogurt_frutta;Yogurt alla frutta;Fruit yogurt;latte_latticini;103;4.4;19.1;19.1;1.1;0.7;0.0;0.14;g;1 vasetto;1 pot;125;yogurt alla fragola, yogurt ai frutti di bosco;flavoured yogurt;USDA FDC 171285
+kefir;Kefir;Kefir;latte_latticini;45;3.9;4.9;4.7;1.0;0.7;0.0;0.10;ml;1 bicchiere;1 glass;125;kefir di latte;milk kefir;USDA FDC 170904
+panna_cucina;Panna da cucina;Cooking cream;latte_latticini;201;3.0;3.7;3.7;19.4;10.3;0.0;0.18;ml;1 cucchiaio;1 tablespoon;15;panna per cucinare;single cream, light cream;USDA FDC 170857
+panna_fresca;Panna fresca;Fresh whipping cream;latte_latticini;350;2.9;2.9;2.9;36.3;23.2;0.0;0.07;ml;1 cucchiaio;1 tablespoon;15;panna da montare, panna liquida fresca;heavy cream, double cream;USDA FDC 170859
+bevanda_soia;Bevanda di soia;Soy drink;latte_latticini;33;2.9;1.3;0.4;1.7;0.2;0.5;0.10;ml;1 bicchiere;1 glass;125;latte di soia;soy milk, soya milk;USDA FDC 175215
+bevanda_avena;Bevanda di avena;Oat drink;latte_latticini;50;0.8;5.2;2.4;2.8;;0.0;0.11;ml;1 bicchiere;1 glass;125;latte di avena;oat milk;USDA FDC 2257046
+bevanda_mandorla;Bevanda di mandorla;Almond drink;latte_latticini;15;0.4;1.1;0.8;1.0;0.1;0.2;0.18;ml;1 bicchiere;1 glass;125;latte di mandorla;almond milk;USDA FDC 174832
+proteine_siero_polvere;Proteine del siero in polvere;Whey protein powder;latte_latticini;345;78.1;3.1;0.0;1.6;0.8;3.1;0.39;g;1 misurino;1 scoop;30;whey, proteine whey, proteine in polvere;whey protein, protein powder;USDA FDC 173180
+ricotta_vaccina;Ricotta vaccina;Cow's milk ricotta;formaggi;151;7.5;7.3;0.3;10.2;6.4;0.0;0.28;g;1 porzione;1 portion;100;ricotta;ricotta cheese;USDA FDC 170851
+fiocchi_latte;Fiocchi di latte;Cottage cheese;formaggi;97;11.1;3.4;2.7;4.3;1.7;0.0;0.79;g;1 porzione;1 portion;100;cottage cheese, formaggio fresco in fiocchi;cottage cheese;USDA FDC 172179
+emmental;Emmental;Emmental;formaggi;393;27.0;1.4;0.0;31.0;18.2;0.0;0.47;g;1 porzione;1 portion;50;emmentaler, groviera;Swiss cheese;USDA FDC 171251
+brie;Brie;Brie;formaggi;334;20.8;0.5;0.5;27.7;17.4;0.0;1.57;g;1 porzione;1 portion;50;;brie cheese;USDA FDC 172177
+olio_extravergine_oliva;Olio extravergine di oliva;Extra virgin olive oil;oli_grassi;900;0.0;0.0;0.0;100.0;13.8;0.0;0.01;g;1 cucchiaio;1 tablespoon;10;olio evo, olio d'oliva, olio di oliva;olive oil, EVOO;USDA FDC 171413
+olio_girasole;Olio di semi di girasole;Sunflower oil;oli_grassi;900;0.0;0.0;0.0;100.0;10.3;0.0;0.00;g;1 cucchiaio;1 tablespoon;10;olio di girasole, olio di semi;sunflower seed oil;USDA FDC 171025
+olio_arachide;Olio di semi di arachide;Peanut oil;oli_grassi;900;0.0;0.0;0.0;100.0;16.9;0.0;0.00;g;1 cucchiaio;1 tablespoon;10;olio di arachidi;groundnut oil;USDA FDC 171410
+olio_mais;Olio di semi di mais;Corn oil;oli_grassi;900;0.0;0.0;0.0;100.0;12.9;0.0;0.00;g;1 cucchiaio;1 tablespoon;10;olio di mais;maize oil;USDA FDC 171029
+olio_cocco;Olio di cocco;Coconut oil;oli_grassi;892;0.0;0.0;0.0;99.1;82.5;0.0;0.00;g;1 cucchiaio;1 tablespoon;10;grasso di cocco;coconut fat;USDA FDC 171412
+burro;Burro;Butter;oli_grassi;734;0.8;0.1;0.1;81.1;50.5;0.0;0.03;g;1 porzione;1 portion;10;burro senza sale;unsalted butter;USDA FDC 173430
+margarina;Margarina;Margarine;oli_grassi;730;0.2;0.7;0.0;80.7;15.2;0.0;0.01;g;1 porzione;1 portion;10;margarina vegetale;margarine spread;USDA FDC 173585
+strutto;Strutto;Lard;oli_grassi;900;0.0;0.0;0.0;100.0;39.2;0.0;0.00;g;1 porzione;1 portion;10;sugna, grasso di maiale;pork fat;USDA FDC 171401
+mandorle;Mandorle;Almonds;frutta_secca_semi;595;21.1;9.1;4.3;49.9;3.8;12.5;0.00;g;1 porzione;1 portion;30;mandorla, mandorle sgusciate;almond, shelled almonds;USDA FDC 170567
+noci;Noci;Walnuts;frutta_secca_semi;689;15.2;7.0;2.6;65.2;6.1;6.7;0.01;g;1 porzione;1 portion;30;gherigli di noce, noce;walnut kernels;USDA FDC 170187
+nocciole;Nocciole;Hazelnuts;frutta_secca_semi;654;14.9;7.0;4.3;60.8;4.5;9.7;0.00;g;1 porzione;1 portion;30;nocciola;filberts;USDA FDC 170581
+anacardi;Anacardi;Cashew nuts;frutta_secca_semi;582;18.2;26.9;5.9;43.9;7.8;3.3;0.03;g;1 porzione;1 portion;30;anacardo;cashews;USDA FDC 170162
+pistacchi;Pistacchi;Pistachios;frutta_secca_semi;576;20.2;16.6;7.7;45.3;5.9;10.6;0.00;g;1 porzione;1 portion;30;pistacchio, pistacchi sgusciati;pistachio nuts;USDA FDC 170184
+arachidi_tostate;Arachidi tostate;Roasted peanuts;frutta_secca_semi;613;24.4;12.9;4.9;49.7;7.7;8.4;0.01;g;1 porzione;1 portion;30;noccioline, arachidi, spagnolette;peanuts;USDA FDC 173806
+burro_arachidi_100;Burro di arachidi 100%;Peanut butter, 100% peanuts;frutta_secca_semi;613;24.4;12.9;4.9;49.7;7.7;8.4;0.01;g;1 cucchiaio;1 tablespoon;16;crema di arachidi, burro d'arachidi;peanut butter, natural peanut butter;USDA FDC 173806
+burro_mandorle_100;Burro di mandorle 100%;Almond butter, 100% almonds;frutta_secca_semi;638;21.0;8.5;4.4;55.5;4.2;10.3;0.02;g;1 cucchiaio;1 tablespoon;16;crema di mandorle;almond butter;USDA FDC 168588
+pinoli;Pinoli;Pine nuts;frutta_secca_semi;715;13.7;9.4;3.6;68.4;4.9;3.7;0.01;g;1 cucchiaio;1 tablespoon;10;pinolo;pine kernels;USDA FDC 170591
+cocco_essiccato;Cocco essiccato;Desiccated coconut;frutta_secca_semi;670;6.9;7.3;7.3;64.5;57.2;16.3;0.09;g;1 porzione;1 portion;30;cocco rapè, farina di cocco, cocco grattugiato;shredded coconut;USDA FDC 170170
+semi_girasole;Semi di girasole;Sunflower seeds;frutta_secca_semi;609;20.8;11.4;2.6;51.5;4.5;8.6;0.02;g;1 cucchiaio;1 tablespoon;10;semi di girasole sgusciati;sunflower kernels;USDA FDC 170562
+semi_zucca;Semi di zucca;Pumpkin seeds;frutta_secca_semi;593;30.2;4.7;1.4;49.0;8.7;6.0;0.02;g;1 cucchiaio;1 tablespoon;10;semi di zucca sgusciati;pepitas;USDA FDC 170556
+semi_chia;Semi di chia;Chia seeds;frutta_secca_semi;443;16.5;7.7;;30.7;3.3;34.4;0.04;g;1 cucchiaio;1 tablespoon;10;chia;chia;USDA FDC 170554
+semi_lino;Semi di lino;Flaxseeds;frutta_secca_semi;514;18.3;1.6;1.6;42.2;3.7;27.3;0.07;g;1 cucchiaio;1 tablespoon;10;lino;linseeds;USDA FDC 169414
+semi_sesamo;Semi di sesamo;Sesame seeds;frutta_secca_semi;588;17.7;11.6;0.3;49.7;7.0;11.8;0.03;g;1 cucchiaio;1 tablespoon;10;sesamo;sesame;USDA FDC 170150
+tahina;Tahina;Tahini;frutta_secca_semi;618;17.0;11.9;0.5;53.8;7.5;9.3;0.29;g;1 cucchiaio;1 tablespoon;15;crema di sesamo, tahin;sesame paste;USDA FDC 170189
+zucchero_bianco;Zucchero bianco;White sugar;dolci_snack;400;0.0;100.0;99.8;0.0;0.0;0.0;0.00;g;1 cucchiaino;1 teaspoon;5;zucchero, saccarosio, zucchero semolato;sugar, granulated sugar;USDA FDC 169655
+zucchero_canna;Zucchero di canna;Brown sugar;dolci_snack;393;0.1;98.1;97.0;0.0;0.0;0.0;0.07;g;1 cucchiaino;1 teaspoon;5;zucchero grezzo;cane sugar;USDA FDC 168833
+miele;Miele;Honey;dolci_snack;330;0.3;82.2;82.1;0.0;0.0;0.2;0.01;g;1 cucchiaino;1 teaspoon;7;miele millefiori, miele di acacia;honey;USDA FDC 169640
+sciroppo_acero;Sciroppo d'acero;Maple syrup;dolci_snack;269;0.0;67.0;60.5;0.1;0.0;0.0;0.03;g;1 cucchiaio;1 tablespoon;20;;maple;USDA FDC 169661
+cioccolato_fondente;Cioccolato fondente (70-85%);Dark chocolate (70-85%);dolci_snack;577;7.8;35.0;24.0;42.6;24.5;10.9;0.05;g;1 porzione;1 portion;20;cioccolato extra fondente;dark chocolate;USDA FDC 170273
+cacao_amaro;Cacao amaro in polvere;Unsweetened cocoa powder;dolci_snack;359;19.6;20.9;1.8;13.7;8.1;37.0;0.05;g;1 cucchiaio;1 tablespoon;5;cacao;cocoa;USDA FDC 169593
+popcorn;Popcorn (senza grassi né sale);Popcorn (air-popped, unsalted);dolci_snack;367;12.0;62.8;;4.2;0.6;15.1;0.01;g;1 porzione;1 portion;30;pop corn;air-popped popcorn;USDA FDC 170246
+caffe_espresso;Caffè espresso;Espresso coffee;bevande;9;0.1;1.7;0.0;0.2;0.1;0.0;0.04;ml;1 tazzina;1 cup;30;caffè, espresso, caffè amaro;espresso;USDA FDC 171891
+caffe_filtro;Caffè filtro;Filter coffee;bevande;1;0.1;0.0;0.0;0.0;0.0;0.0;0.01;ml;1 tazza;1 cup;200;caffè americano, caffè lungo;brewed coffee, americano;USDA FDC 171890
+te;Tè;Tea;bevande;1;0.0;0.3;0.0;0.0;0.0;0.0;0.01;ml;1 tazza;1 cup;200;tè nero, the, infuso di tè;black tea;USDA FDC 173227
+succo_arancia;Spremuta d'arancia;Fresh orange juice;bevande;48;0.7;10.7;8.8;0.2;0.0;0.2;0.00;ml;1 bicchiere;1 glass;200;spremuta, succo d'arancia 100%;orange juice;USDA FDC 169098
+succo_mela;Succo di mela 100%;Apple juice;bevande;49;0.1;11.6;10.1;0.1;0.0;0.2;0.01;ml;1 bicchiere;1 glass;200;succo di mela senza zuccheri aggiunti;unsweetened apple juice;USDA FDC 173933
+bibita_cola;Bibita tipo cola;Cola;bevande;43;0.0;10.8;10.3;0.0;0.0;0.0;0.01;ml;1 lattina;1 can;330;cola, coca cola, bibita gassata;cola drink, soft drink;USDA FDC 174852
+bibita_cola_zero;Bibita tipo cola zero;Zero-sugar cola;bevande;2;0.1;0.3;0.0;0.0;0.0;0.0;0.02;ml;1 lattina;1 can;330;cola zero, cola light, coca cola zero;diet cola, cola light;USDA FDC 175099
+birra;Birra chiara;Lager beer;bevande;44;0.5;3.6;0.0;0.0;0.0;0.0;0.01;ml;1 lattina;1 can;330;birra bionda, lager;beer, pale lager;USDA FDC 168746
+vino_rosso;Vino rosso;Red wine;bevande;84;0.1;2.6;0.6;0.0;0.0;0.0;0.01;ml;1 bicchiere;1 glass;125;vino, rosso;wine, red wine;USDA FDC 173190
+vino_bianco;Vino bianco;White wine;bevande;82;0.1;2.6;1.0;0.0;0.0;0.0;0.01;ml;1 bicchiere;1 glass;125;bianco;wine, white wine;USDA FDC 174837
+sale;Sale da cucina;Table salt;condimenti;0;0.0;0.0;0.0;0.0;0.0;0.0;96.89;g;1 cucchiaino;1 teaspoon;5;sale fino, sale grosso, sale iodato;salt;USDA FDC 173468
+salsa_soia;Salsa di soia;Soy sauce;condimenti;60;8.8;4.5;0.4;0.6;0.1;0.9;14.80;ml;1 cucchiaio;1 tablespoon;10;soia, shoyu;soya sauce;USDA FDC 174277
+ketchup;Ketchup;Ketchup;condimenti;114;1.0;27.1;21.3;0.1;0.0;0.3;2.27;g;1 cucchiaio;1 tablespoon;15;salsa ketchup;tomato ketchup, catsup;USDA FDC 168556
+maionese;Maionese;Mayonnaise;condimenti;680;1.0;0.6;0.6;74.8;11.7;0.0;1.59;g;1 cucchiaio;1 tablespoon;14;maionese classica;mayo;USDA FDC 171009
+senape;Senape;Mustard;condimenti;60;3.7;1.8;0.9;3.3;0.2;4.0;2.76;g;1 cucchiaino;1 teaspoon;5;mostarda gialla;yellow mustard;USDA FDC 172234
+olive_verdi;Olive verdi in salamoia;Green olives in brine;condimenti;151;1.0;0.5;0.5;15.3;2.0;3.3;3.89;g;1 porzione;1 portion;30;olive;green olives;USDA FDC 169096
+olive_nere;Olive nere;Black olives;condimenti;122;0.8;4.4;0.0;10.9;2.3;1.6;1.84;g;1 porzione;1 portion;30;olive mature;ripe olives;USDA FDC 169094
+capperi;Capperi;Capers;condimenti;30;2.4;1.7;0.4;0.9;0.2;3.2;5.87;g;1 cucchiaio;1 tablespoon;10;cappero, capperi in salamoia;capers in brine;USDA FDC 172238
+basilico;Basilico fresco;Fresh basil;condimenti;26;3.1;1.0;0.3;0.6;0.0;1.6;0.01;g;1 porzione;1 portion;5;basilico;basil;USDA FDC 172232
+prezzemolo;Prezzemolo fresco;Fresh parsley;condimenti;38;3.0;3.0;0.8;0.8;0.1;3.3;0.14;g;1 porzione;1 portion;5;prezzemolo;parsley;USDA FDC 170416
+origano;Origano secco;Dried oregano;condimenti;265;9.0;26.4;4.1;4.3;1.6;42.5;0.06;g;1 cucchiaino;1 teaspoon;1;origano;oregano;USDA FDC 171328
+peperoncino_polvere;Peperoncino in polvere;Chilli powder;condimenti;376;12.0;29.4;10.3;17.3;3.3;27.2;0.07;g;1 cucchiaino;1 teaspoon;2;peperoncino, cayenna;cayenne pepper, red pepper;USDA FDC 170932
