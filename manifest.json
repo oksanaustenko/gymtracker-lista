@@ -13,7 +13,7 @@
     "url": "https://raw.githubusercontent.com/oksanaustenko/gymtracker-lista/main/alimenti_base.csv"
   },
   "animations": {
-    "version": 2,
+    "version": 3,
     "url": "https://raw.githubusercontent.com/oksanaustenko/gymtracker-lista/main/animazioni.json"
   }
 }
