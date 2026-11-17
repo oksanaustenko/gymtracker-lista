@@ -2,18 +2,22 @@
   "format": 1,
   "exercises": {
     "version": 3,
-    "url": "https://raw.githubusercontent.com/oksanaustenko/gymtracker-lista/main/esercizi.csv"
+    "url": "https://raw.githubusercontent.com/oksanaustenko/gymtracker-lista/main/esercizi.csv",
+    "sha256": "e0dde545a52755bdcd1c708416fa96d4f1febba4ae5344f441c4fc8e8b422fbb"
   },
   "templates": {
     "version": 1,
-    "url": "https://raw.githubusercontent.com/oksanaustenko/gymtracker-lista/main/schede_modello.csv"
+    "url": "https://raw.githubusercontent.com/oksanaustenko/gymtracker-lista/main/schede_modello.csv",
+    "sha256": "47268490b4c5c5870edecf99e68c096eeea2c2c214f11251d2f06b47f1404e9e"
   },
   "foods": {
     "version": 1,
-    "url": "https://raw.githubusercontent.com/oksanaustenko/gymtracker-lista/main/alimenti_base.csv"
+    "url": "https://raw.githubusercontent.com/oksanaustenko/gymtracker-lista/main/alimenti_base.csv",
+    "sha256": "aaeac1e89ac3942a4a52d0d4b37df255eb64cf6bf860b29462c58eb052fd55cf"
   },
   "animations": {
-    "version": 3,
-    "url": "https://raw.githubusercontent.com/oksanaustenko/gymtracker-lista/main/animazioni.json"
+    "version": 4,
+    "url": "https://raw.githubusercontent.com/oksanaustenko/gymtracker-lista/main/animazioni.json",
+    "sha256": "9732728b60c660aeccb0f13e9247cc44b4852d72f0f2cb58d298bc2dd2d24752"
   }
 }
