@@ -2,7 +2,7 @@
 
 *English version below.*
 
-Ultimo aggiornamento: 24 novembre 2026.
+Ultimo aggiornamento: 25 novembre 2026.
 
 GymTrek è un'app per registrare gli allenamenti in palestra e, se attivata, l'alimentazione.
 **Non ha account e non ha server propri: tutti i dati che inserisci restano sul tuo telefono.**
@@ -102,13 +102,13 @@ li cancella dal foglio dello sviluppatore.
 
 ## Contatti
 
-Per domande sulla privacy: `<INDIRIZZO EMAIL DA INSERIRE PRIMA DELLA PUBBLICAZIONE>`.
+Per domande sulla privacy: appgymtrackers@gmail.com.
 
 ---
 
 # GymTrek – Privacy policy
 
-Last updated: 24 November 2026.
+Last updated: 25 November 2026.
 
 GymTrek is an app to log gym workouts and, if turned on, nutrition. **It has no accounts and
 no servers of its own: all the data you enter stays on your phone.** The developer does not
@@ -205,4 +205,4 @@ sheet.
 
 ## Contact
 
-Privacy questions: `<EMAIL ADDRESS TO ADD BEFORE PUBLISHING>`.
+Privacy questions: appgymtrackers@gmail.com.
