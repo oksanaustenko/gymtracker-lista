@@ -1,9 +1,9 @@
 {
   "format": 1,
   "exercises": {
-    "version": 3,
+    "version": 4,
     "url": "https://raw.githubusercontent.com/oksanaustenko/gymtracker-lista/main/esercizi.csv",
-    "sha256": "e0dde545a52755bdcd1c708416fa96d4f1febba4ae5344f441c4fc8e8b422fbb"
+    "sha256": "0ba45ee8ba3d4a8f03fbf9f4ad1e739e88851202ececfafc7cfebdc5cf2dd454"
   },
   "templates": {
     "version": 1,
@@ -16,8 +16,18 @@
     "sha256": "aaeac1e89ac3942a4a52d0d4b37df255eb64cf6bf860b29462c58eb052fd55cf"
   },
   "animations": {
-    "version": 4,
+    "version": 5,
     "url": "https://raw.githubusercontent.com/oksanaustenko/gymtracker-lista/main/animazioni.json",
-    "sha256": "9732728b60c660aeccb0f13e9247cc44b4852d72f0f2cb58d298bc2dd2d24752"
+    "sha256": "56ee19d8ccc72f94793efb275bb6e710b0da94f51d84cd417bb2d54a31996bb0"
+  },
+  "interval_templates": {
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/oksanaustenko/gymtracker-lista/main/schede_modello_intervalli.csv",
+    "sha256": "671d4a936c4de59f5c96a61dac724ff649d2b4a426387ddbeead75923bd506b3"
+  },
+  "ideas": {
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/oksanaustenko/gymtracker-lista/main/idee.json",
+    "sha256": "c363f0ca7e435fde4cba1172490c957e34b26b1f0fb017b06210911d048f3b89"
   }
 }
