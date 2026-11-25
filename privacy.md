@@ -2,11 +2,13 @@
 
 *English version below.*
 
-Ultimo aggiornamento: 15 novembre 2026.
+Ultimo aggiornamento: 24 novembre 2026.
 
 GymTrek è un'app per registrare gli allenamenti in palestra e, se attivata, l'alimentazione.
 **Non ha account e non ha server propri: tutti i dati che inserisci restano sul tuo telefono.**
-Chi sviluppa l'app non riceve, non vede e non conserva nessuno dei tuoi dati.
+Chi sviluppa l'app non riceve, non vede e non conserva nessuno dei tuoi dati di allenamento,
+salute o alimentazione. Riceve solo i voti e le idee che scegli di inviare dalla sezione Idee
+(vedi sotto).
 
 ## Quali dati gestisce l'app, e dove restano
 
@@ -32,11 +34,54 @@ L'app usa internet solo per:
   da Google Play, secondo l'informativa privacy di Google. L'app chiede a Google Play solo se
   l'abbonamento o il Pro a vita sono attivi; non riceve i tuoi dati di pagamento.
 
+- **bacheca delle idee**: scarica da GitHub il file pubblico con le idee e i voti, insieme alle
+  liste ufficiali. Se hai acceso gli avvisi sulle idee, l'app lo controlla anche una volta al
+  giorno in background, solo con la connessione attiva. Non invia nessun dato tuo;
+- **sezione Idee** (solo quando voti, ritiri un voto, proponi un'idea o chiedi di cancellare i
+  tuoi dati): vedi il paragrafo seguente.
+
 Come ogni collegamento internet, il servizio contattato vede l'indirizzo IP del telefono.
+
+## Sezione Idee
+
+Nella sezione Idee puoi votare le idee per l'app e proporne di nuove. Per contare i voti, l'app
+invia a un **modulo Google gestito dallo sviluppatore** (Google Forms; le risposte finiscono in
+un foglio Google che vede solo lo sviluppatore):
+
+- un **identificativo casuale dell'installazione**, creato dall'app e non legato al telefono, al
+  tuo nome o al tuo account Google;
+- per un voto: il numero dell'idea, se voti o ritiri il voto, e quando;
+- per una proposta: il titolo, la descrizione, la categoria e la lingua che scrivi, un codice
+  casuale della proposta e quando l'hai inviata;
+- per una richiesta di cancellazione: l'identificativo e quando l'hai chiesta.
+
+**Non vengono inviati** dati di allenamento, salute, alimentazione o profilo, né il tuo nome o
+la tua email. Il modulo non chiede l'accesso a Google. Google, che gestisce il modulo, vede
+l'indirizzo IP del telefono come in ogni collegamento.
+
+Le proposte vengono lette dallo sviluppatore prima di essere pubblicate: non scrivere dati
+personali nel testo. Le idee pubblicate (con il testo eventualmente corretto o tradotto) e il
+numero dei voti diventano pubblici nella bacheca dell'app, senza nessun identificativo.
+
+**Per quanto tempo:** i voti e le proposte pubblicate restano nel foglio finché l'idea è nella
+bacheca, perché servono a contare i voti. Le proposte non pubblicate vengono cancellate dal foglio
+entro 30 giorni dalla decisione.
+
+**Cancellazione:** in **Impostazioni → Idee → Elimina le mie idee e i miei voti** l'app cancella
+dal telefono le tue proposte e i tuoi voti e invia una richiesta di cancellazione per il tuo
+identificativo. Lo sviluppatore cancella dal foglio tutte le righe di quell'identificativo al
+conteggio successivo, e comunque entro 30 giorni. Le idee già pubblicate restano nella bacheca,
+senza più alcun legame con te. Da quel momento l'app usa un identificativo nuovo.
+
+La sezione Idee è facoltativa: se non voti e non proponi, non viene inviato nulla. Le notifiche
+sulle idee sono locali (create dall'app sul telefono) e si attivano solo se lo scegli tu; con gli
+avvisi spenti l'app non fa nessun controllo in background.
 
 ## Backup
 
-- **Backup su file**: lo crei tu dalle Impostazioni e scegli dove salvarlo.
+- **Backup su file**: lo crei tu dalle Impostazioni e scegli dove salvarlo. Contiene anche i tuoi
+  voti, le tue proposte e l'identificativo della sezione Idee, così su un telefono nuovo continui
+  a vedere le tue idee.
 - **Backup automatico di Android**: se è attivo nelle impostazioni di Android, il sistema salva i
   dati dell'app nello spazio di backup del **tuo** account Google. GymTrek lo permette solo
   sui telefoni con blocco schermo (PIN, sequenza o impronta), cioè quando il backup è cifrato in
@@ -51,7 +96,9 @@ dati con nessuno.
 
 Disinstallando l'app i dati sul telefono vengono cancellati. Il backup automatico di Android si
 cancella dalle impostazioni di Android (Google → Backup) o dal tuo account Google; i file di
-backup che hai salvato tu restano dove li hai messi.
+backup che hai salvato tu restano dove li hai messi. Per i voti e le proposte già inviati dalla
+sezione Idee usa prima "Elimina le mie idee e i miei voti" (vedi sopra): disinstallare l'app non
+li cancella dal foglio dello sviluppatore.
 
 ## Contatti
 
@@ -61,11 +108,12 @@ Per domande sulla privacy: `<INDIRIZZO EMAIL DA INSERIRE PRIMA DELLA PUBBLICAZIO
 
 # GymTrek – Privacy policy
 
-Last updated: 15 November 2026.
+Last updated: 24 November 2026.
 
 GymTrek is an app to log gym workouts and, if turned on, nutrition. **It has no accounts and
 no servers of its own: all the data you enter stays on your phone.** The developer does not
-receive, see or keep any of your data.
+receive, see or keep any of your training, health or nutrition data. The developer only receives
+the votes and ideas you choose to send from the Ideas section (see below).
 
 ## What data the app handles, and where it stays
 
@@ -91,11 +139,52 @@ The app uses the internet only for:
   privacy policy. The app only asks Google Play whether the subscription or lifetime Pro is
   active; it never receives your payment details.
 
+- **board of ideas**: it downloads from GitHub the public file with the ideas and votes, together
+  with the official lists. If you turned on idea notifications, the app also checks it once a day
+  in the background, only with a connection. None of your data is sent;
+- **Ideas section** (only when you vote, withdraw a vote, suggest an idea or ask to delete your
+  data): see the next section.
+
 As with any internet connection, the service contacted sees the phone's IP address.
+
+## Ideas section
+
+In the Ideas section you can vote for ideas for the app and suggest new ones. To count the votes,
+the app sends to a **Google form run by the developer** (Google Forms; the answers go to a Google
+sheet only the developer can see):
+
+- a **random installation id**, created by the app and not tied to the phone, your name or your
+  Google account;
+- for a vote: the idea number, whether you vote or withdraw the vote, and when;
+- for a suggestion: the title, description, category and language you write, a random code of
+  the suggestion and when you sent it;
+- for a deletion request: the id and when you asked.
+
+**No** training, health, nutrition or profile data is sent, nor your name or email. The form does
+not ask you to sign in to Google. Google, which runs the form, sees the phone's IP address as with
+any connection.
+
+Suggestions are read by the developer before they are published: do not write personal data in
+them. Published ideas (with text possibly corrected or translated) and vote counts become public
+on the app's board, without any id.
+
+**How long:** votes and published suggestions stay in the sheet while the idea is on the board,
+because they are needed to count the votes. Suggestions that are not published are deleted from
+the sheet within 30 days of the decision.
+
+**Deletion:** in **Settings → Ideas → Delete my ideas and votes** the app deletes your suggestions
+and votes from the phone and sends a deletion request for your id. The developer deletes every row
+of that id from the sheet at the next count, and in any case within 30 days. Ideas already
+published stay on the board, with no link to you anymore. From then on the app uses a new id.
+
+The Ideas section is optional: if you do not vote or suggest, nothing is sent. Notifications about
+ideas are local (created by the app on the phone) and only on if you choose so; with them off the
+app makes no background check.
 
 ## Backups
 
-- **Backup file**: you create it from Settings and choose where to save it.
+- **Backup file**: you create it from Settings and choose where to save it. It also holds your
+  votes, your suggestions and the Ideas section id, so on a new phone you keep seeing your ideas.
 - **Android automatic backup**: if it is on in the Android settings, the system saves the app data
   in the backup space of **your** Google account. GymTrek allows it only on phones with a screen
   lock (PIN, pattern or fingerprint), that is when the backup is encrypted so that not even Google
@@ -110,7 +199,9 @@ with anyone.
 
 Uninstalling the app deletes the data on the phone. Android's automatic backup is deleted from the
 Android settings (Google → Backup) or from your Google account; backup files you saved stay where
-you put them.
+you put them. For votes and suggestions already sent from the Ideas section, first use "Delete my
+ideas and votes" (see above): uninstalling the app does not delete them from the developer's
+sheet.
 
 ## Contact
 
